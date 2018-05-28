@@ -1,0 +1,27 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "Project while learning Mongodb, express and node learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek12414/YELPCAMP.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "express",
+    "yelpcamp",
+    "abhishek_developement",
+    "abhishek12414"
+  ],
+  "author": "Abhishek Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek12414/YELPCAMP/issues"
+  },
+  "homepage": "https://github.com/abhishek12414/YELPCAMP#readme"
+}
